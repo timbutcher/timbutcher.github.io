@@ -1,0 +1,75 @@
+.main {
+  background-color: #33333D;
+  height: 120vh;
+}
+
+.top-bar {
+  background-color: #0F2945;
+  height: 9vh;
+  color: #fff;
+}
+
+i {
+  font-size: 36px;
+}
+
+.main-title {
+  font-weight: bold;
+  margin-top: 3px;
+}
+
+.left-text {
+  margin-top: 3px;
+  margin-left: 5px;
+}
+
+.goat-image {
+  width: 95%;
+  margin-top: 15px;
+}
+
+.timer {
+  color: #fff;
+  width: 75%;
+  margin-top: 10px;
+  .columns {
+    .time {
+      font-size: 12px;
+    }
+    .number-1 {
+      font-weight: bold;
+      font-size: 20px;
+      background-color: #6F6F79;
+      border-radius: 5px;
+      width: 80%;
+      margin: 0 auto;
+    }
+    .number-2 {
+      font-weight: bold;
+      font-size: 20px;
+      border: 2px #fff solid;
+      border-radius: 50%;
+    }
+  }
+}
+
+h1.title {
+  color: #fff;
+  margin-top: 5px;
+}
+
+.ticket-info {
+  width: 90%;
+  .ticket-title {
+    background-color: #36567D;
+    border-bottom: 3px black solid;
+    font-size: 48px;
+    color: #fff;
+    font-weight: bold;
+  }
+  p {
+    background-color: #597AAD;
+    color: #fff;
+    border-bottom: 1px #33333D solid;
+  }
+}
